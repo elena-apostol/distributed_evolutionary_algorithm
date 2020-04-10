@@ -1,0 +1,2 @@
+# distributed_evolutionary_algorithm
+hybrid models for Distributed Evolutionary Algorithm
